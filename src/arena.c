@@ -9,7 +9,7 @@
  * See the file COPYING for more details, or visit <http://unlicense.org>.
  */
 
-#define ram_kb 64
+#define ram_kb 32
 
 #define ram_bytes (ram_kb*1024)
 
